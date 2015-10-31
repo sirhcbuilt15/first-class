@@ -3,6 +3,12 @@
 
 double sume(double num1, num2);
 
+double resta(double num1, num2);
+
+double multiplica(double num1, num2);
+
+double divide(double num1, num2);
+
 
 
 #endif
